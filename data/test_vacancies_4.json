@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Python junior",
+        "salary_from": 100000,
+        "snippet": "Знание Python, SQL.",
+        "url": "https://api.hh.ru/vacancies/111986448?host=hh.ru"
+    },
+    {
+        "name": "Python senior",
+        "salary_from": 200000,
+        "snippet": "Опыт разработки на Python. Знание Java, SQL.",
+        "url": "https://api.hh.ru/vacancies/111986414?host=hh.ru"
+    },
+    {
+        "name": "Python-Разработчик",
+        "salary_from": 150000,
+        "snippet": "Опыт разработки на Python.",
+        "url": "https://api.hh.ru/vacancies/111986435?host=hh.ru"
+    },
+    {
+        "name": "Python junior",
+        "salary_from": 80000,
+        "snippet": "Знание Python, SQL.",
+        "url": "https://api.hh.ru/vacancies/111986425?host=hh.ru"
+    },
+    {
+        "name": "Java senior",
+        "salary_from": 170000,
+        "snippet": "Опыт программирования на Java.",
+        "url": "https://api.hh.ru/vacancies/111986415?host=hh.ru"
+    },
+    {
+        "name": "Python-Разработчик",
+        "salary_from": 150000,
+        "snippet": "Опыт разработки на Python.",
+        "url": "https://api.hh.ru/vacancies/111986418?host=hh.ru"
+    },
+    {
+        "name": "Java junior",
+        "salary_from": 80000,
+        "snippet": "Знание Java, SQL.",
+        "url": "https://api.hh.ru/vacancies/111986428?host=hh.ru"
+    },
+    {
+        "name": "Python senior",
+        "salary_from": 120000,
+        "snippet": "Опыт программирования на Python.",
+        "url": "https://api.hh.ru/vacancies/111986478?host=hh.ru"
+    },
+    {
+        "name": "Java Разработчик",
+        "salary_from": "Не указана",
+        "snippet": "Опыт программирования на Java.",
+        "url": "https://api.hh.ru/vacancies/111986498?host=hh.ru"
+    }
+]
